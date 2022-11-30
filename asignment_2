@@ -1,0 +1,9 @@
+s1=int(input())
+s2=int(input())
+s3=int(input())
+if(s1>=35):
+    if(s2>=35):
+        if(s3>=35):
+            print('pass')
+else:
+     print('fail')
